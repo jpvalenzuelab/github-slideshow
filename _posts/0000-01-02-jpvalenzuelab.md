@@ -2,7 +2,7 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Cambio en la linea 5 
 Utiliza la flecha hacia la izquierda para volver!
 
-Esto es una modificacion en el archivo rarito este
+
